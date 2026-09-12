@@ -54,14 +54,12 @@ For Software:
 For Software:
 
 # Screenshots (Add at least 3)
-![Screenshot1](Add screenshot 1 here with proper name)
-*Add caption explaining what this shows*
+(https://kommodo.ai/i/faUoeQbEhwEXtskElcRz)
 
-![Screenshot2](Add screenshot 2 here with proper name)
-*Add caption explaining what this shows*
+https://kommodo.ai/i/0PpRuna95OzWOQs4xbLz
 
-![Screenshot3](Add screenshot 3 here with proper name)
-*Add caption explaining what this shows*
+https://kommodo.ai/i/0PpRuna95OzWOQs4xbLz
+
 
 # Diagrams
 ![Workflow](Add your workflow/architecture diagram here)
