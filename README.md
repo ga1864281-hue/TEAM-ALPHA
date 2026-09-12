@@ -77,18 +77,18 @@ For Hardware:
 *Add caption explaining the schematic*
 
 # Build Photos
-![Components](Add photo of your components here)
+![https://kommodo.ai/i/faUoeQbEhwEXtskElcRz](Add photo of your components here)
 *List out all components shown*
 
-![Build](Add photos of build process here)
+![(https://kommodo.ai/i/0PpRuna95OzWOQs4xbLz)](Add photos of build process here)
 *Explain the build steps*
 
-![Final](Add photo of final product here)
+![(https://kommodo.ai/i/0PpRuna95OzWOQs4xbLz)](Add photo of final product here)
 *Explain the final build*
 
 ### Project Demo
 # Video
-[Add your demo video link here]
+[(https://youtube.com/shorts/VLdToisSIes?feature=share)]
 *Explain what the video demonstrates*
 
 # Additional Demos
